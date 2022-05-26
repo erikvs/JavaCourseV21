@@ -1,0 +1,30 @@
+[ {
+  "name" : "HAT-P-7 System",
+  "pictureUrl" : "http://bit.ly/2Iz4jPB",
+  "centerStar" : {
+    "type" : "star",
+    "name" : "HAT-P-7",
+    "radius" : 2.0,
+    "mass" : 1.5599372549019608,
+    "pictureUrl" : "http://bit.ly/336nzNZ",
+    "effectiveTemp" : 6389.0
+  },
+  "planets" : [ {
+    "type" : "Planet",
+    "name" : "HAT-P-7 b",
+    "radius" : 1.51,
+    "mass" : 1.8400000000000003,
+    "pictureUrl" : "http://bit.ly/2Q2PngD",
+    "semiMajorAxis" : 0.0,
+    "eccentricity" : 0.0,
+    "orbitalPeriod" : 2.20474,
+    "centralCelestialBody" : {
+      "type" : "star",
+      "name" : "HAT-P-7",
+      "radius" : 2.0,
+      "mass" : 1.5599372549019608,
+      "pictureUrl" : "http://bit.ly/336nzNZ",
+      "effectiveTemp" : 6389.0
+    }
+  } ]
+}]
